@@ -1,5 +1,5 @@
 # Bedrock-Blog-Generation-AWS
-To send a request via postman to create a aws api gateway to lambda which sends a prompt msg to AWS bedrock which in turn generates a blog and saves it in AWS S3
+To send a request via postman to AWS Api gateway to lambda which sends a prompt msg to AWS bedrock which in turn generates a blog and saves it in AWS S3
 
 LLM used for Blog generation in AWS Bedrock is "Llama 2 Chat 13B v1" 
 
